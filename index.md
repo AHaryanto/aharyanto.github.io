@@ -22,7 +22,7 @@ Technologies used: Python, Natural Language Processing, Machine Learning Classif
 
 A proposed big data machine learning model that classifies recipes into healthy or unhealthy categories based on the recipe nutrition to help prevent heart disease. Data is extracted from three different data sets - Open Food Facts, Christmas Recipes, General Recipes. The overall data is over 1GB in size. Data engineering and machine learning are done using PySpark and Hive on Google Cloud Platform.
 
-[Slides](/pdf/recipe_classification.pdf)
+[View presentation](/pdf/recipe_classification.pdf)
 
 Technologies used: Python, Spark, Hive, Machine Learning Regression, Google Cloud Platform
 
@@ -34,9 +34,9 @@ Technologies used: Python, Spark, Hive, Machine Learning Regression, Google Clou
 <img src="images/recommendation4.jpeg?raw=true"/>
 </a>
 
-[Slides](/pdf/recommendation_engine.pdf)
-
 A recommendation engine that will identify the similarity between different products based on the key features of the food items to potentially expose shoppers to new products that meet their dietary needs, and inform grocery chains of customer shopping behavior and patterns
+
+[View presentation](/pdf/recommendation_engine.pdf)
 
 Technologies used: Python, Apriori Algorithm, Spark, Machine Learning Classification
 
