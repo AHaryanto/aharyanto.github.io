@@ -8,6 +8,8 @@
 <img src="images/news.jpg?raw=true"/>
 </a>
 
+A Natural Language Processing (NLP) model for identifying the risk level of news reported in an article.
+
 Technologies used: Python, Natural Language Processing, Machine Learning Classification
 
 ---
@@ -17,6 +19,8 @@ Technologies used: Python, Natural Language Processing, Machine Learning Classif
 <a href="https://github.com/AHaryanto/side-projects/tree/master/Food%20Analytics%20with%20Hadoop">
 <img src="images/recipe5.jpeg?raw=true"/>
 </a>
+
+A proposed big data machine learning model that classifies recipes into healthy or unhealthy categories based on the recipe nutrition to help prevent heart disease. Data is extracted from three different data sets - Open Food Facts, Christmas Recipes, General Recipes. The overall data is over 1GB in size. Data engineering and machine learning are done using PySpark and Hive on Google Cloud Platform.
 
 [Slides](/pdf/recipe_classification.pdf)
 
@@ -32,12 +36,9 @@ Technologies used: Python, Spark, Hive, Machine Learning Regression, Google Clou
 
 [Slides](/pdf/recommendation_engine.pdf)
 
-Technologies used: Python, Apriori Algorithm
+A recommendation engine that will identify the similarity between different products based on the key features of the food items to potentially expose shoppers to new products that meet their dietary needs, and inform grocery chains of customer shopping behavior and patterns
 
----
-
-
-
+Technologies used: Python, Apriori Algorithm, Spark, Machine Learning Classification
 
 
 ---
