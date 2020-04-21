@@ -27,6 +27,7 @@ A deep learning project trying to determine if two individuals are related given
 
 Technologies used: Python, Deep Learning, Machine Learning Regression, Google Colab
 
+---
 
 ## [Heart Health and Recipe Recommendation](https://github.com/AHaryanto/side-projects/tree/master/Food%20Analytics%20with%20Hadoop)
 
@@ -48,12 +49,25 @@ Technologies used: Python, Spark, Hive, Machine Learning Regression, Google Clou
 <img src="images/recommendation.jpeg?raw=true"/>
 </a>
 
-A recommendation engine that will identify the similarity between different products based on the key features of the food items to potentially expose shoppers to new products that meet their dietary needs, and inform grocery chains of customer shopping behavior and patterns
+A recommendation engine that will identify the similarity between different products based on the key features of the food items to potentially expose shoppers to new products that meet their dietary needs, and inform grocery chains of customer shopping behavior and patterns.
 
 [View presentation](/pdf/recommendation_engine.pdf)
 
 Technologies used: Python, Apriori Algorithm, Spark, Machine Learning Classification
 
+---
+
+## [Web Traffic Forecasting](https://github.com/AHaryanto/side-projects/tree/master/Web%20Traffic%20Time%20Series%20Forecasting)
+
+<a href="https://github.com/AHaryanto/side-projects/tree/master/Web%20Traffic%20Time%20Series%20Forecasting">
+<img src="images/traffic.jpeg?raw=true"/>
+</a>
+
+Forecast future traffic to Wikipedia pages using different Time Series Analysis techniques such as ARIMA, Seasonal ARIMA, Hierarchical Time Series, and Intervention Analysis.
+
+[View presentation](/pdf/web_traffic_forecasting.pdf)
+
+Technologies used: R, Time Series Analysis
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
